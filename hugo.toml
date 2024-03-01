@@ -1,0 +1,4 @@
+baseURL = 'https://aslon.me/'
+languageCode = 'en-us'
+title = 'Aslon .........'
+theme = 'ananke'
