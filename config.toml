@@ -1,0 +1,4 @@
+baseURL = 'https://aslon1213.github.io/'
+languageCode = 'en-us'
+title = 'Aslon .........'
+theme = 'ananke'
